@@ -1,15 +1,14 @@
-### Hi there, I'm Elias 👋
+### ¡Hola!, soy Elias 👋
 
 <br/>
 
-- 🌱 I’m currently learning everything 
-- 📕 Working everyday to become a Full Stack Developer
-- 🥅 2020 Goals: Learn to code with Ruby and JS  
+- 🌱 Aquí publico el diseño de maquetas web, algunas ilustraciones y mis micro cuentos random.  
+- 📕 Pronto a comenzar un bootcamp en Diseño UX/UI
 
 
 <br/>
 
-### Languages and Tools:
+### Uso de herramientas y software:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
