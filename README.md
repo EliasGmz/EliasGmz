@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🌱 Aquí publico el diseño de maquetas web, algunas ilustraciones y mis micro cuentos random.  
+- 🌱 Aquí publico el diseño de mis maquetas web.  
 - 📕 Pronto a comenzar un bootcamp en Diseño UX/UI
 
 
