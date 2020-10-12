@@ -3,7 +3,7 @@
 <br/>
 
 - 🌱 Aquí publico el diseño de mis maquetas web.  
-- 📕 Pronto a comenzar un bootcamp en Diseño UX/UI
+- 📕 Actualmente realizando un bootcamp en Diseño UX/UI
 
 
 <br/>
